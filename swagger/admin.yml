@@ -1,0 +1,53 @@
+resourcePath: /Admin
+description: Admin API's
+apis:
+
+- path: /api/admins
+  operations:
+
+    - httpMethod: GET
+      summary: getAll_Admins
+      notes:  Manadatory Params  (For app - )
+      nickname: all_admins
+      consumes:
+        - application/json
+      parameters:
+
+      - name: body
+        dataType: body
+        defaultValue: '{}'
+        paramType: body
+        required: false
+        description:
+      responses:
+        200:
+         description: An array of keys
+
+
+- path: /api/admin
+  operations:
+
+    - httpMethod: POST
+      summary: add_admin
+      notes:  Manadatory Params  (For app - emailId,userName,cellPhoneNumber,countryCode,password)
+      nickname: add_admin
+      consumes:
+        - application/json
+      parameters:
+
+      - name: body
+        dataType: body
+        defaultValue: '{
+                          "emailId":"udit.kumawat@gmail.com",
+                          "userName":"admin",
+                          "cellPhoneNumber":"8989826236",
+                          "countryCode":"+91",
+                          "password":"qwerty"
+                        }'
+        paramType: body
+        required: false
+        description:
+      responses:
+        200:
+         description: An array of keys
+
