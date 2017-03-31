@@ -1,32 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a240019d-293f-45d9-a7f0-74061ed365d7" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/models/appVersion.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/models/customers.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/swagger/customers.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/utils/imageUploader.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/utils/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/utils/notificationManager.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/utils/simpleUploading.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/utils/tokenGenerator.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/utils/utilities.js" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/models/movie.js" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/appConfig.js" afterPath="$PROJECT_DIR$/config/appConfig.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/awsConfig.js" afterPath="$PROJECT_DIR$/config/awsConfig.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/dbConfig.js" afterPath="$PROJECT_DIR$/config/dbConfig.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/serverConfig.js" afterPath="$PROJECT_DIR$/config/serverConfig.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/controllers/customer/customerBaseController.js" afterPath="$PROJECT_DIR$/controllers/customer/customerBaseController.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/models/admin.js" afterPath="$PROJECT_DIR$/models/admin.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/models/index.js" afterPath="$PROJECT_DIR$/models/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/routes/index.js" afterPath="$PROJECT_DIR$/routes/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/routes/validations/customerValidations.js" afterPath="$PROJECT_DIR$/routes/validations/customerValidations.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/routes/validations/index.js" afterPath="$PROJECT_DIR$/routes/validations/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server.js" afterPath="$PROJECT_DIR$/server.js" />
-    </list>
+    <list default="true" id="a240019d-293f-45d9-a7f0-74061ed365d7" name="Default" comment="" />
     <ignored path="es6Project.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -200,34 +175,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bongour" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bongour" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="swagger" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bongour" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bongour" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="routes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
       <pane id="Scratches" />
@@ -321,24 +268,24 @@
       <workItem from="1490848496100" duration="8000" />
       <workItem from="1490848566166" duration="22953000" />
       <workItem from="1490934179098" duration="10768000" />
-      <workItem from="1490960717297" duration="4121000" />
+      <workItem from="1490960717297" duration="4210000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="84289000" />
+    <option name="totallyTimeSpent" value="84378000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="263" y="83" width="1518" height="911" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12825651" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2257251" sideWeight="0.50188273" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2553459" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2553459" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2257251" sideWeight="0.49811727" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22515723" sideWeight="0.49811727" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
