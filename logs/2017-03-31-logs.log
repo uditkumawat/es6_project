@@ -1,0 +1,315 @@
+{"level":"info","message":"Server Starts","timestamp":"2017-03-31T04:40:55.391Z"}
+{"level":"info","message":"Redis connected","timestamp":"2017-03-31T04:40:55.394Z"}
+{"level":"info","message":"Connected to MONGO Database","timestamp":"2017-03-31T04:40:55.416Z"}
+{"level":"info","message":"POST /customer/loginEmail","timestamp":"2017-03-31T04:41:06.384Z"}
+{"level":"info","message":"Server Starts","timestamp":"2017-03-31T04:57:30.284Z"}
+{"level":"info","message":"Redis connected","timestamp":"2017-03-31T04:57:30.286Z"}
+{"level":"info","message":"Connected to MONGO Database","timestamp":"2017-03-31T04:57:30.308Z"}
+{"level":"info","message":"POST /admin","timestamp":"2017-03-31T04:57:33.155Z"}
+{"level":"info","message":"POST /admin","timestamp":"2017-03-31T04:58:14.498Z"}
+{"level":"info","message":"POST /admin","timestamp":"2017-03-31T04:58:15.071Z"}
+{"level":"info","message":"POST /admin","timestamp":"2017-03-31T04:58:15.614Z"}
+{"level":"info","message":"POST /admin","timestamp":"2017-03-31T04:58:16.126Z"}
+{"level":"info","message":"POST /admin","timestamp":"2017-03-31T04:58:16.569Z"}
+{"level":"info","message":"POST /admin","timestamp":"2017-03-31T04:58:16.968Z"}
+{"level":"info","message":"Server Starts","timestamp":"2017-03-31T04:59:04.947Z"}
+{"level":"info","message":"Redis connected","timestamp":"2017-03-31T04:59:04.950Z"}
+{"level":"info","message":"Connected to MONGO Database","timestamp":"2017-03-31T04:59:04.976Z"}
+{"level":"info","message":"POST /admin","timestamp":"2017-03-31T04:59:07.071Z"}
+{"level":"info","message":"Server Starts","timestamp":"2017-03-31T05:39:42.798Z"}
+{"level":"info","message":"Redis connected","timestamp":"2017-03-31T05:39:42.800Z"}
+{"level":"info","message":"Connected to MONGO Database","timestamp":"2017-03-31T05:39:42.824Z"}
+{"level":"info","message":"POST /admin","timestamp":"2017-03-31T05:39:44.927Z"}
+{"level":"info","message":"POST /customer","timestamp":"2017-03-31T05:39:54.081Z"}
+{"level":"info","message":"Server Starts","timestamp":"2017-03-31T05:40:58.465Z"}
+{"level":"info","message":"Redis connected","timestamp":"2017-03-31T05:40:58.468Z"}
+{"level":"info","message":"Connected to MONGO Database","timestamp":"2017-03-31T05:40:58.495Z"}
+{"level":"info","message":"POST /customer","timestamp":"2017-03-31T05:41:01.176Z"}
+{"level":"info","message":"Server Starts","timestamp":"2017-03-31T05:41:36.600Z"}
+{"level":"info","message":"Redis connected","timestamp":"2017-03-31T05:41:36.606Z"}
+{"level":"info","message":"Connected to MONGO Database","timestamp":"2017-03-31T05:41:36.629Z"}
+{"level":"info","message":"POST /customer","timestamp":"2017-03-31T05:41:38.584Z"}
+{"level":"info","message":"POST /customer","timestamp":"2017-03-31T05:41:51.495Z"}
+{"level":"info","message":"Server Starts","timestamp":"2017-03-31T05:43:15.683Z"}
+{"level":"info","message":"Redis connected","timestamp":"2017-03-31T05:43:15.685Z"}
+{"level":"info","message":"Connected to MONGO Database","timestamp":"2017-03-31T05:43:15.710Z"}
+{"level":"info","message":"POST /customer","timestamp":"2017-03-31T05:43:26.890Z"}
+{"level":"info","message":"POST /customer","timestamp":"2017-03-31T05:43:37.098Z"}
+{"level":"info","message":"Server Starts","timestamp":"2017-03-31T05:44:06.326Z"}
+{"level":"info","message":"Redis connected","timestamp":"2017-03-31T05:44:06.328Z"}
+{"level":"info","message":"Connected to MONGO Database","timestamp":"2017-03-31T05:44:06.352Z"}
+{"level":"info","message":"POST /customer","timestamp":"2017-03-31T05:44:08.186Z"}
+{"level":"info","message":"POST /customer","timestamp":"2017-03-31T05:44:09.472Z"}
+{"level":"info","message":"POST /customer","timestamp":"2017-03-31T05:44:10.310Z"}
+{"level":"info","message":"POST /customer/logout","timestamp":"2017-03-31T05:44:16.218Z"}
+{"level":"info","message":"Server Starts","timestamp":"2017-03-31T05:45:20.627Z"}
+{"level":"info","message":"Redis connected","timestamp":"2017-03-31T05:45:20.629Z"}
+{"level":"info","message":"Connected to MONGO Database","timestamp":"2017-03-31T05:45:20.671Z"}
+{"level":"info","message":"POST /customer/logout","timestamp":"2017-03-31T05:45:21.624Z"}
+{"level":"info","message":"Server Starts","timestamp":"2017-03-31T05:56:44.738Z"}
+{"level":"info","message":"Redis connected","timestamp":"2017-03-31T05:56:44.740Z"}
+{"level":"info","message":"Connected to MONGO Database","timestamp":"2017-03-31T05:56:44.777Z"}
+{"level":"info","message":"POST /customer/logout","timestamp":"2017-03-31T05:56:53.618Z"}
+{"level":"info","message":"POST /customer/logout","timestamp":"2017-03-31T05:57:19.938Z"}
+{"level":"info","message":"POST /customer/logout","timestamp":"2017-03-31T05:58:12.856Z"}
+{"level":"info","message":"{\"METHOD\":\"POST\",\"URL\":\"/api/customer/logout\",\"BODY\":{\"accessToken\":\"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1OGRjZWUyN2VkMTFiZjBiZjU4NmRkZjAiLCJ0aW1lIjoiMjAxNy0wMy0zMFQxMTozODoxNS42OTVaIiwiaWF0IjoxNDkwODczODk1fQ.I3E_1y_WW4CSVyTrQZvDJiamzY_Z2jjnVPhMHdUIXhs\"}}","timestamp":"2017-03-31T05:58:12.869Z"}
+{"level":"info","message":"POST /customer/logout","timestamp":"2017-03-31T05:58:30.495Z"}
+{"level":"info","message":"POST /customer/loginEmail","timestamp":"2017-03-31T06:01:11.855Z"}
+{"level":"info","message":"Server Starts","timestamp":"2017-03-31T06:13:03.846Z"}
+{"level":"info","message":"Redis connected","timestamp":"2017-03-31T06:13:03.848Z"}
+{"level":"info","message":"Connected to MONGO Database","timestamp":"2017-03-31T06:13:03.871Z"}
+{"level":"info","message":"POST /customer/loginEmail","timestamp":"2017-03-31T06:13:04.693Z"}
+{"level":"info","message":"POST /customer/loginEmail","timestamp":"2017-03-31T06:13:06.902Z"}
+{"level":"info","message":"POST /customer/loginEmail","timestamp":"2017-03-31T06:13:35.858Z"}
+{"level":"info","message":"Server Starts","timestamp":"2017-03-31T06:14:14.279Z"}
+{"level":"info","message":"Redis connected","timestamp":"2017-03-31T06:14:14.282Z"}
+{"level":"info","message":"Connected to MONGO Database","timestamp":"2017-03-31T06:14:14.306Z"}
+{"level":"info","message":"POST /customer/loginEmail","timestamp":"2017-03-31T06:14:16.372Z"}
+{"level":"info","message":"POST /customer/loginEmail","timestamp":"2017-03-31T06:14:33.298Z"}
+{"level":"info","message":"POST /customer/loginEmail","timestamp":"2017-03-31T06:14:37.133Z"}
+{"level":"info","message":"POST /customer/loginEmail","timestamp":"2017-03-31T06:15:00.802Z"}
+{"level":"info","message":"Server Starts","timestamp":"2017-03-31T06:15:19.242Z"}
+{"level":"info","message":"Redis connected","timestamp":"2017-03-31T06:15:19.245Z"}
+{"level":"info","message":"Connected to MONGO Database","timestamp":"2017-03-31T06:15:19.268Z"}
+{"level":"info","message":"POST /customer/loginEmail","timestamp":"2017-03-31T06:15:22.071Z"}
+{"level":"info","message":"Server Starts","timestamp":"2017-03-31T06:15:58.010Z"}
+{"level":"info","message":"Redis connected","timestamp":"2017-03-31T06:15:58.012Z"}
+{"level":"info","message":"Connected to MONGO Database","timestamp":"2017-03-31T06:15:58.042Z"}
+{"level":"info","message":"POST /customer/loginEmail","timestamp":"2017-03-31T06:16:04.305Z"}
+{"level":"info","message":"Server Starts","timestamp":"2017-03-31T06:16:20.874Z"}
+{"level":"info","message":"Redis connected","timestamp":"2017-03-31T06:16:20.876Z"}
+{"level":"info","message":"Connected to MONGO Database","timestamp":"2017-03-31T06:16:20.901Z"}
+{"level":"info","message":"POST /customer/loginEmail","timestamp":"2017-03-31T06:16:23.514Z"}
+{"level":"info","message":"POST /customer/loginEmail","timestamp":"2017-03-31T06:16:27.224Z"}
+{"level":"info","message":"POST /customer/loginEmail","timestamp":"2017-03-31T06:21:01.620Z"}
+{"level":"info","message":"Server Starts","timestamp":"2017-03-31T06:21:45.924Z"}
+{"level":"info","message":"Redis connected","timestamp":"2017-03-31T06:21:45.927Z"}
+{"level":"info","message":"Connected to MONGO Database","timestamp":"2017-03-31T06:21:45.954Z"}
+{"level":"info","message":"Server Starts","timestamp":"2017-03-31T06:21:53.851Z"}
+{"level":"info","message":"Redis connected","timestamp":"2017-03-31T06:21:53.854Z"}
+{"level":"info","message":"Connected to MONGO Database","timestamp":"2017-03-31T06:21:53.878Z"}
+{"level":"info","message":"POST /customer/loginEmail","timestamp":"2017-03-31T06:21:56.311Z"}
+{"level":"info","message":"POST /customer/loginEmail","timestamp":"2017-03-31T06:23:18.316Z"}
+{"level":"info","message":"POST /customer/loginEmail","timestamp":"2017-03-31T06:23:21.542Z"}
+{"level":"info","message":"POST /customer/loginEmail","timestamp":"2017-03-31T06:23:22.275Z"}
+{"level":"info","message":"POST /customer/loginEmail","timestamp":"2017-03-31T06:23:22.838Z"}
+{"level":"info","message":"POST /customer/loginEmail","timestamp":"2017-03-31T06:23:23.497Z"}
+{"level":"info","message":"POST /customer/loginEmail","timestamp":"2017-03-31T06:23:24.045Z"}
+{"level":"info","message":"POST /customer/loginEmail","timestamp":"2017-03-31T06:23:24.630Z"}
+{"level":"info","message":"POST /customer/loginEmail","timestamp":"2017-03-31T06:23:25.286Z"}
+{"level":"info","message":"POST /customer/loginEmail","timestamp":"2017-03-31T06:23:25.870Z"}
+{"level":"info","message":"POST /customer/loginEmail","timestamp":"2017-03-31T06:23:26.438Z"}
+{"level":"info","message":"POST /customer/loginEmail","timestamp":"2017-03-31T06:23:28.672Z"}
+{"level":"info","message":"POST /customer/loginEmail","timestamp":"2017-03-31T06:23:29.637Z"}
+{"level":"info","message":"POST /customer/loginEmail","timestamp":"2017-03-31T06:24:27.731Z"}
+{"level":"info","message":"POST /customer/loginEmail","timestamp":"2017-03-31T06:24:28.961Z"}
+{"level":"info","message":"POST /customer/loginEmail","timestamp":"2017-03-31T06:24:29.920Z"}
+{"level":"info","message":"POST /customer/loginEmail","timestamp":"2017-03-31T06:24:30.641Z"}
+{"level":"info","message":"POST /customer/loginEmail","timestamp":"2017-03-31T06:24:31.271Z"}
+{"level":"info","message":"POST /customer/loginEmail","timestamp":"2017-03-31T06:24:32.166Z"}
+{"level":"info","message":"POST /customer/loginEmail","timestamp":"2017-03-31T06:24:32.815Z"}
+{"level":"info","message":"POST /customer/loginEmail","timestamp":"2017-03-31T06:24:33.503Z"}
+{"level":"info","message":"POST /customer/loginEmail","timestamp":"2017-03-31T06:24:34.113Z"}
+{"level":"info","message":"POST /customer/loginEmail","timestamp":"2017-03-31T06:24:34.647Z"}
+{"level":"info","message":"POST /customer/loginEmail","timestamp":"2017-03-31T06:24:35.241Z"}
+{"level":"info","message":"POST /customer/loginEmail","timestamp":"2017-03-31T06:24:35.733Z"}
+{"level":"info","message":"Server Starts","timestamp":"2017-03-31T06:30:45.897Z"}
+{"level":"info","message":"Redis connected","timestamp":"2017-03-31T06:30:45.901Z"}
+{"level":"info","message":"Connected to MONGO Database","timestamp":"2017-03-31T06:30:45.929Z"}
+{"level":"info","message":"POST /customer/accessToken","timestamp":"2017-03-31T06:30:55.035Z"}
+{"level":"info","message":"POST /customer/accessToken","timestamp":"2017-03-31T06:31:11.600Z"}
+{"level":"info","message":"POST /customer/accessToken","timestamp":"2017-03-31T06:31:14.591Z"}
+{"level":"info","message":"POST /customer/accessToken","timestamp":"2017-03-31T06:31:44.764Z"}
+{"level":"info","message":"Server Starts","timestamp":"2017-03-31T06:32:33.484Z"}
+{"level":"info","message":"Redis connected","timestamp":"2017-03-31T06:32:33.486Z"}
+{"level":"info","message":"Connected to MONGO Database","timestamp":"2017-03-31T06:32:33.519Z"}
+{"level":"info","message":"POST /customer/accessToken","timestamp":"2017-03-31T06:32:35.162Z"}
+{"level":"info","message":"POST /customer/accessToken","timestamp":"2017-03-31T06:32:48.427Z"}
+{"level":"info","message":"POST /customer/logout","timestamp":"2017-03-31T06:33:43.865Z"}
+{"level":"info","message":"{\"METHOD\":\"POST\",\"URL\":\"/api/customer/logout\",\"BODY\":{\"accessToken\":\"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1OGRjZWUyN2VkMTFiZjBiZjU4NmRkZjAiLCJ0aW1lIjoiMjAxNy0wMy0zMVQwNjoyNDozNS44MjNaIiwidHlwZSI6IkNVU1RPTUVSIiwiaWF0IjoxNDkwOTQxNDc1fQ.OgOC8SZWouumuPCWz5QvnS77hvTq88uo34rI46jD3LY\"}}","timestamp":"2017-03-31T06:33:43.875Z"}
+{"level":"info","message":"PUT /customer/logout","timestamp":"2017-03-31T06:33:47.694Z"}
+{"level":"info","message":"POST /customer/loginEmail","timestamp":"2017-03-31T06:34:02.752Z"}
+{"level":"info","message":"POST /customer/loginEmail","timestamp":"2017-03-31T06:34:48.451Z"}
+{"level":"info","message":"POST /customer/logout","timestamp":"2017-03-31T06:34:56.377Z"}
+{"level":"info","message":"POST /customer/logout","timestamp":"2017-03-31T06:35:10.124Z"}
+{"level":"info","message":"PUT /customer/logout","timestamp":"2017-03-31T06:35:16.000Z"}
+{"level":"info","message":"PUT /customer/logout","timestamp":"2017-03-31T06:35:29.352Z"}
+{"level":"info","message":"POST /customer/loginEmail","timestamp":"2017-03-31T06:35:42.871Z"}
+{"level":"info","message":"PUT /customer/logout","timestamp":"2017-03-31T06:36:09.193Z"}
+{"level":"info","message":"PUT /customer/logout","timestamp":"2017-03-31T06:36:23.877Z"}
+{"level":"info","message":"PUT /customer/logout","timestamp":"2017-03-31T06:36:40.611Z"}
+{"level":"info","message":"Server Starts","timestamp":"2017-03-31T06:37:39.041Z"}
+{"level":"info","message":"Redis connected","timestamp":"2017-03-31T06:37:39.043Z"}
+{"level":"info","message":"Connected to MONGO Database","timestamp":"2017-03-31T06:37:39.067Z"}
+{"level":"info","message":"POST /customer/loginEmail","timestamp":"2017-03-31T06:37:45.385Z"}
+{"level":"info","message":"Server Starts","timestamp":"2017-03-31T06:41:12.465Z"}
+{"level":"info","message":"Redis connected","timestamp":"2017-03-31T06:41:12.468Z"}
+{"level":"info","message":"Connected to MONGO Database","timestamp":"2017-03-31T06:41:12.492Z"}
+{"level":"info","message":"POST /customer/loginEmail","timestamp":"2017-03-31T06:41:14.507Z"}
+{"level":"info","message":"Server Starts","timestamp":"2017-03-31T06:56:39.478Z"}
+{"level":"info","message":"Redis connected","timestamp":"2017-03-31T06:56:39.480Z"}
+{"level":"info","message":"Connected to MONGO Database","timestamp":"2017-03-31T06:56:39.503Z"}
+{"level":"info","message":"POST /customer/loginEmail","timestamp":"2017-03-31T06:56:42.123Z"}
+{"level":"info","message":"POST /customer/accessToken","timestamp":"2017-03-31T06:57:39.884Z"}
+{"level":"info","message":"Server Starts","timestamp":"2017-03-31T06:58:10.442Z"}
+{"level":"info","message":"Redis connected","timestamp":"2017-03-31T06:58:10.445Z"}
+{"level":"info","message":"Connected to MONGO Database","timestamp":"2017-03-31T06:58:10.466Z"}
+{"level":"info","message":"POST /customer/loginEmail","timestamp":"2017-03-31T06:58:14.700Z"}
+{"level":"info","message":"POST /customer/accessToken","timestamp":"2017-03-31T06:58:44.748Z"}
+{"level":"info","message":"POST /customer/accessToken","timestamp":"2017-03-31T06:59:02.269Z"}
+{"level":"info","message":"Server Starts","timestamp":"2017-03-31T07:00:35.893Z"}
+{"level":"info","message":"Redis connected","timestamp":"2017-03-31T07:00:35.895Z"}
+{"level":"info","message":"Connected to MONGO Database","timestamp":"2017-03-31T07:00:35.920Z"}
+{"level":"info","message":"POST /customer/loginEmail","timestamp":"2017-03-31T07:00:40.400Z"}
+{"level":"info","message":"POST /customer/accessToken","timestamp":"2017-03-31T07:01:14.715Z"}
+{"level":"info","message":"Server Starts","timestamp":"2017-03-31T07:03:58.408Z"}
+{"level":"info","message":"Redis connected","timestamp":"2017-03-31T07:03:58.411Z"}
+{"level":"info","message":"Connected to MONGO Database","timestamp":"2017-03-31T07:03:58.436Z"}
+{"level":"info","message":"POST /customer/loginEmail","timestamp":"2017-03-31T07:04:00.135Z"}
+{"level":"info","message":"POST /customer/accessToken","timestamp":"2017-03-31T07:04:24.956Z"}
+{"level":"info","message":"POST /customer/loginEmail","timestamp":"2017-03-31T07:04:58.738Z"}
+{"level":"info","message":"POST /customer/accessToken","timestamp":"2017-03-31T07:05:13.706Z"}
+{"level":"info","message":"Server Starts","timestamp":"2017-03-31T07:05:50.513Z"}
+{"level":"info","message":"Redis connected","timestamp":"2017-03-31T07:05:50.515Z"}
+{"level":"info","message":"Connected to MONGO Database","timestamp":"2017-03-31T07:05:50.546Z"}
+{"level":"info","message":"POST /customer/loginEmail","timestamp":"2017-03-31T07:05:57.684Z"}
+{"level":"info","message":"POST /customer/accessToken","timestamp":"2017-03-31T07:06:12.429Z"}
+{"level":"info","message":"Server Starts","timestamp":"2017-03-31T07:06:52.332Z"}
+{"level":"info","message":"Redis connected","timestamp":"2017-03-31T07:06:52.334Z"}
+{"level":"info","message":"Connected to MONGO Database","timestamp":"2017-03-31T07:06:52.358Z"}
+{"level":"info","message":"POST /customer/loginEmail","timestamp":"2017-03-31T07:06:55.489Z"}
+{"level":"info","message":"POST /customer/accessToken","timestamp":"2017-03-31T07:07:09.926Z"}
+{"level":"info","message":"Server Starts","timestamp":"2017-03-31T07:07:52.373Z"}
+{"level":"info","message":"Redis connected","timestamp":"2017-03-31T07:07:52.375Z"}
+{"level":"info","message":"Connected to MONGO Database","timestamp":"2017-03-31T07:07:52.400Z"}
+{"level":"info","message":"POST /customer/loginEmail","timestamp":"2017-03-31T07:07:58.931Z"}
+{"level":"info","message":"POST /customer/accessToken","timestamp":"2017-03-31T07:08:12.776Z"}
+{"level":"info","message":"POST /customer/loginEmail","timestamp":"2017-03-31T07:08:18.792Z"}
+{"level":"info","message":"POST /customer/accessToken","timestamp":"2017-03-31T07:08:36.754Z"}
+{"level":"info","message":"POST /customer/logout","timestamp":"2017-03-31T07:09:53.495Z"}
+{"level":"info","message":"{\"METHOD\":\"POST\",\"URL\":\"/api/customer/logout\",\"BODY\":{\"accessToken\":\"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1OGRjZWUyN2VkMTFiZjBiZjU4NmRkZjAiLCJ0aW1lIjoiMjAxNy0wMy0zMVQwNzowODoxOC44OTRaIiwidHlwZSI6IkNVU1RPTUVSIiwiaWF0IjoxNDkwOTQ0MDk4fQ.cQH_yLp8v3ONhotFPFat9DFkkUvFtGu5lMUZJHTa0Os\",\"_id\":\"58dcee27ed11bf0bf586ddf0\"}}","timestamp":"2017-03-31T07:09:53.504Z"}
+{"level":"info","message":"PUT /customer/logout","timestamp":"2017-03-31T07:09:56.903Z"}
+{"level":"info","message":"PUT /customer/accessToken","timestamp":"2017-03-31T07:10:03.559Z"}
+{"level":"info","message":"Server Starts","timestamp":"2017-03-31T07:15:00.473Z"}
+{"level":"info","message":"Redis connected","timestamp":"2017-03-31T07:15:00.475Z"}
+{"level":"info","message":"Connected to MONGO Database","timestamp":"2017-03-31T07:15:00.497Z"}
+{"level":"info","message":"POST /customer/loginEmail","timestamp":"2017-03-31T07:15:04.732Z"}
+{"level":"info","message":"PUT /customer/accessToken","timestamp":"2017-03-31T07:15:51.383Z"}
+{"level":"info","message":"{\"METHOD\":\"PUT\",\"URL\":\"/api/customer/accessToken\",\"BODY\":{\"accessToken\":\"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1OGRjZWUyN2VkMTFiZjBiZjU4NmRkZjAiLCJ0aW1lIjoiMjAxNy0wMy0zMVQwNzoxNTowNC44NDJaIiwidHlwZSI6IkNVU1RPTUVSIiwiaWF0IjoxNDkwOTQ0NTA0fQ.J9wzfzfhJFSw8TAxIDxFLjz6xTkbmaSWLUmQa5g2BGo\",\"_id\":\"58dcee27ed11bf0bf586ddf0\"}}","timestamp":"2017-03-31T07:15:51.397Z"}
+{"level":"info","message":"POST /customer/accessToken","timestamp":"2017-03-31T07:15:55.021Z"}
+{"level":"info","message":"POST /customer/logout","timestamp":"2017-03-31T07:16:11.654Z"}
+{"level":"info","message":"{\"METHOD\":\"POST\",\"URL\":\"/api/customer/logout\",\"BODY\":{\"accessToken\":\"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1OGRjZWUyN2VkMTFiZjBiZjU4NmRkZjAiLCJ0aW1lIjoiMjAxNy0wMy0zMVQwNzoxNTowNC44NDJaIiwidHlwZSI6IkNVU1RPTUVSIiwiaWF0IjoxNDkwOTQ0NTA0fQ.J9wzfzfhJFSw8TAxIDxFLjz6xTkbmaSWLUmQa5g2BGo\",\"_id\":\"58dcee27ed11bf0bf586ddf0\"}}","timestamp":"2017-03-31T07:16:11.659Z"}
+{"level":"info","message":"PUT /customer/logout","timestamp":"2017-03-31T07:16:15.248Z"}
+{"level":"info","message":"Server Starts","timestamp":"2017-03-31T09:24:15.905Z"}
+{"level":"info","message":"Redis connected","timestamp":"2017-03-31T09:24:15.907Z"}
+{"level":"info","message":"Connected to MONGO Database","timestamp":"2017-03-31T09:24:15.930Z"}
+{"level":"info","message":"PUT /customer/loginViaFB","timestamp":"2017-03-31T09:24:32.453Z"}
+{"level":"info","message":"PUT /customer/loginViaFB","timestamp":"2017-03-31T09:24:39.054Z"}
+{"level":"info","message":"POST /customer/loginViaFB","timestamp":"2017-03-31T09:24:42.692Z"}
+{"level":"info","message":"POST /customer/loginViaFB","timestamp":"2017-03-31T09:25:41.407Z"}
+{"level":"info","message":"POST /customer/loginViaFB","timestamp":"2017-03-31T09:25:53.609Z"}
+{"level":"info","message":"POST /customer/loginViaFB","timestamp":"2017-03-31T09:27:09.479Z"}
+{"level":"info","message":"POST /customer/loginViaGoogle","timestamp":"2017-03-31T09:27:17.260Z"}
+{"level":"info","message":"Server Starts","timestamp":"2017-03-31T09:28:40.894Z"}
+{"level":"info","message":"Redis connected","timestamp":"2017-03-31T09:28:40.896Z"}
+{"level":"info","message":"Connected to MONGO Database","timestamp":"2017-03-31T09:28:40.919Z"}
+{"level":"info","message":"POST /customer/loginViaGoogle","timestamp":"2017-03-31T09:28:42.805Z"}
+{"level":"info","message":"POST /customer/loginViaGoogle","timestamp":"2017-03-31T09:28:55.744Z"}
+{"level":"info","message":"Server Starts","timestamp":"2017-03-31T11:54:29.472Z"}
+{"level":"info","message":"Redis connected","timestamp":"2017-03-31T11:54:29.474Z"}
+{"level":"info","message":"Connected to MONGO Database","timestamp":"2017-03-31T11:54:29.498Z"}
+{"level":"info","message":"POST /customer/forgotPassword","timestamp":"2017-03-31T11:54:56.631Z"}
+{"level":"info","message":"POST /customer","timestamp":"2017-03-31T12:02:30.509Z"}
+{"level":"info","message":"POST /customer","timestamp":"2017-03-31T12:03:05.120Z"}
+{"level":"info","message":"POST /customer","timestamp":"2017-03-31T12:03:20.713Z"}
+{"level":"info","message":"POST /customer","timestamp":"2017-03-31T12:04:17.686Z"}
+{"level":"info","message":"Server Starts","timestamp":"2017-03-31T12:04:50.271Z"}
+{"level":"info","message":"Redis connected","timestamp":"2017-03-31T12:04:50.273Z"}
+{"level":"info","message":"Connected to MONGO Database","timestamp":"2017-03-31T12:04:50.296Z"}
+{"level":"info","message":"POST /customer","timestamp":"2017-03-31T12:04:57.729Z"}
+{"level":"info","message":"Server Starts","timestamp":"2017-03-31T12:05:26.113Z"}
+{"level":"info","message":"Redis connected","timestamp":"2017-03-31T12:05:26.115Z"}
+{"level":"info","message":"Connected to MONGO Database","timestamp":"2017-03-31T12:05:26.139Z"}
+{"level":"info","message":"POST /customer","timestamp":"2017-03-31T12:05:33.777Z"}
+{"level":"info","message":"Server Starts","timestamp":"2017-03-31T12:16:51.651Z"}
+{"level":"info","message":"Redis connected","timestamp":"2017-03-31T12:16:51.653Z"}
+{"level":"info","message":"Connected to MONGO Database","timestamp":"2017-03-31T12:16:51.676Z"}
+{"level":"info","message":"POST /customer/loginEmail","timestamp":"2017-03-31T12:17:03.946Z"}
+{"level":"info","message":"POST /customer/loginEmail","timestamp":"2017-03-31T12:17:19.561Z"}
+{"level":"info","message":"POST /customer/loginEmail","timestamp":"2017-03-31T12:18:03.231Z"}
+{"level":"info","message":"POST /customer/loginEmail","timestamp":"2017-03-31T12:18:04.180Z"}
+{"level":"info","message":"POST /customer/loginEmail","timestamp":"2017-03-31T12:18:04.860Z"}
+{"level":"info","message":"POST /customer/loginEmail","timestamp":"2017-03-31T12:18:05.451Z"}
+{"level":"info","message":"POST /customer/loginEmail","timestamp":"2017-03-31T12:18:06.407Z"}
+{"level":"info","message":"POST /customer/loginEmail","timestamp":"2017-03-31T12:18:08.139Z"}
+{"level":"info","message":"POST /customer/loginEmail","timestamp":"2017-03-31T12:18:11.316Z"}
+{"level":"info","message":"POST /customer/loginEmail","timestamp":"2017-03-31T12:18:12.029Z"}
+{"level":"info","message":"POST /customer/loginEmail","timestamp":"2017-03-31T12:18:27.596Z"}
+{"level":"info","message":"POST /customer/loginEmail","timestamp":"2017-03-31T12:18:31.109Z"}
+{"level":"info","message":"POST /customer/loginEmail","timestamp":"2017-03-31T12:18:31.907Z"}
+{"level":"info","message":"POST /customer/loginEmail","timestamp":"2017-03-31T12:18:32.483Z"}
+{"level":"info","message":"POST /customer/loginEmail","timestamp":"2017-03-31T12:18:33.044Z"}
+{"level":"info","message":"POST /customer/loginEmail","timestamp":"2017-03-31T12:18:33.595Z"}
+{"level":"info","message":"POST /customer/loginEmail","timestamp":"2017-03-31T12:18:34.124Z"}
+{"level":"info","message":"POST /customer/loginEmail","timestamp":"2017-03-31T12:18:34.693Z"}
+{"level":"info","message":"POST /customer/loginViaFB","timestamp":"2017-03-31T12:21:49.693Z"}
+{"level":"info","message":"POST /customer/loginViaFB","timestamp":"2017-03-31T12:30:37.836Z"}
+{"level":"info","message":"POST /customer/loginViaFB","timestamp":"2017-03-31T12:30:45.475Z"}
+{"level":"info","message":"POST /customer/loginViaFB","timestamp":"2017-03-31T12:30:46.353Z"}
+{"level":"info","message":"POST /customer/loginViaFB","timestamp":"2017-03-31T12:30:46.985Z"}
+{"level":"info","message":"POST /customer/loginViaFB","timestamp":"2017-03-31T12:30:54.969Z"}
+{"level":"info","message":"POST /customer/loginViaFB","timestamp":"2017-03-31T12:30:55.729Z"}
+{"level":"info","message":"POST /customer/loginViaFB","timestamp":"2017-03-31T12:30:56.314Z"}
+{"level":"info","message":"POST /customer/loginViaFB","timestamp":"2017-03-31T12:30:56.879Z"}
+{"level":"info","message":"POST /customer/loginViaFB","timestamp":"2017-03-31T12:30:57.033Z"}
+{"level":"info","message":"POST /customer/loginViaFB","timestamp":"2017-03-31T12:30:57.545Z"}
+{"level":"info","message":"POST /customer/loginViaFB","timestamp":"2017-03-31T12:30:58.092Z"}
+{"level":"info","message":"POST /customer/loginViaFB","timestamp":"2017-03-31T12:30:58.246Z"}
+{"level":"info","message":"POST /customer/loginViaFB","timestamp":"2017-03-31T12:30:58.611Z"}
+{"level":"info","message":"POST /customer/loginViaFB","timestamp":"2017-03-31T12:30:59.218Z"}
+{"level":"info","message":"Server Starts","timestamp":"2017-03-31T12:32:05.951Z"}
+{"level":"info","message":"Redis connected","timestamp":"2017-03-31T12:32:05.956Z"}
+{"level":"info","message":"Connected to MONGO Database","timestamp":"2017-03-31T12:32:05.993Z"}
+{"level":"info","message":"POST /customer/loginViaGoogle","timestamp":"2017-03-31T12:32:12.007Z"}
+{"level":"info","message":"POST /customer/loginViaGoogle","timestamp":"2017-03-31T12:32:19.550Z"}
+{"level":"info","message":"POST /customer/loginViaGoogle","timestamp":"2017-03-31T12:32:23.622Z"}
+{"level":"info","message":"POST /customer/loginViaGoogle","timestamp":"2017-03-31T12:32:24.356Z"}
+{"level":"info","message":"POST /customer/loginViaGoogle","timestamp":"2017-03-31T12:32:25.028Z"}
+{"level":"info","message":"POST /customer/loginViaGoogle","timestamp":"2017-03-31T12:32:25.589Z"}
+{"level":"info","message":"POST /customer/loginViaGoogle","timestamp":"2017-03-31T12:32:26.221Z"}
+{"level":"info","message":"POST /customer/loginViaGoogle","timestamp":"2017-03-31T12:32:26.782Z"}
+{"level":"info","message":"POST /customer/loginViaGoogle","timestamp":"2017-03-31T12:32:29.455Z"}
+{"level":"info","message":"POST /customer/loginViaGoogle","timestamp":"2017-03-31T12:32:29.998Z"}
+{"level":"info","message":"POST /customer/loginViaGoogle","timestamp":"2017-03-31T12:32:30.534Z"}
+{"level":"info","message":"POST /customer/loginViaGoogle","timestamp":"2017-03-31T12:32:31.063Z"}
+{"level":"info","message":"POST /customer/loginViaGoogle","timestamp":"2017-03-31T12:32:36.937Z"}
+{"level":"info","message":"POST /customer/loginViaGoogle","timestamp":"2017-03-31T12:32:37.757Z"}
+{"level":"info","message":"POST /customer/loginViaGoogle","timestamp":"2017-03-31T12:32:38.268Z"}
+{"level":"info","message":"POST /customer/loginViaGoogle","timestamp":"2017-03-31T12:32:38.781Z"}
+{"level":"info","message":"POST /customer/accessToken","timestamp":"2017-03-31T12:32:59.854Z"}
+{"level":"info","message":"POST /customer/accessToken","timestamp":"2017-03-31T12:33:20.807Z"}
+{"level":"info","message":"POST /customer/accessToken","timestamp":"2017-03-31T12:33:32.609Z"}
+{"level":"info","message":"POST /customer/accessToken","timestamp":"2017-03-31T12:33:40.511Z"}
+{"level":"info","message":"Server Starts","timestamp":"2017-03-31T12:41:52.981Z"}
+{"level":"info","message":"Redis connected","timestamp":"2017-03-31T12:41:52.983Z"}
+{"level":"info","message":"Connected to MONGO Database","timestamp":"2017-03-31T12:41:53.012Z"}
+{"level":"info","message":"POST /customer/accessToken","timestamp":"2017-03-31T12:42:18.341Z"}
+{"level":"info","message":"POST /customer/accessToken","timestamp":"2017-03-31T12:42:39.167Z"}
+{"level":"info","message":"POST /customer/accessToken","timestamp":"2017-03-31T12:46:32.563Z"}
+{"level":"info","message":"POST /customer/accessToken","timestamp":"2017-03-31T12:46:36.605Z"}
+{"level":"info","message":"POST /customer/accessToken","timestamp":"2017-03-31T12:46:45.678Z"}
+{"level":"info","message":"Server Starts","timestamp":"2017-03-31T12:58:34.790Z"}
+{"level":"info","message":"Redis connected","timestamp":"2017-03-31T12:58:34.794Z"}
+{"level":"info","message":"Connected to MONGO Database","timestamp":"2017-03-31T12:58:34.828Z"}
+{"level":"info","message":"Server Starts","timestamp":"2017-03-31T12:59:34.058Z"}
+{"level":"info","message":"Redis connected","timestamp":"2017-03-31T12:59:34.061Z"}
+{"level":"info","message":"Connected to MONGO Database","timestamp":"2017-03-31T12:59:34.084Z"}
+{"level":"info","message":"POST /customer/loginEmail","timestamp":"2017-03-31T13:00:37.686Z"}
+{"level":"info","message":"POST /customer/loginEmail","timestamp":"2017-03-31T13:00:52.098Z"}
+{"level":"info","message":"POST /customer/loginEmail?api_key=special-key","timestamp":"2017-03-31T13:01:06.326Z"}
+{"level":"info","message":"POST /customer/loginEmail?api_key=special-key","timestamp":"2017-03-31T13:01:13.853Z"}
+{"level":"info","message":"POST /customer/loginViaFB?api_key=special-key","timestamp":"2017-03-31T13:01:27.911Z"}
+{"level":"info","message":"Server Starts","timestamp":"2017-03-31T13:04:07.564Z"}
+{"level":"info","message":"Redis connected","timestamp":"2017-03-31T13:04:07.568Z"}
+{"level":"info","message":"Connected to MONGO Database","timestamp":"2017-03-31T13:04:07.591Z"}
+{"level":"info","message":"PUT /customer/logout?api_key=special-key","timestamp":"2017-03-31T13:04:39.928Z"}

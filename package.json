@@ -1,33 +1,40 @@
 {
-  "name": "es6_project",
+  "name": "Bongour",
   "version": "1.0.0",
-  "description": "es6 project features mvc structure",
+  "description": "Bongour Project",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
     "es6",
-    "mvc",
+    "bongour",
     "structure"
   ],
   "author": "udit",
   "license": "ISC",
   "dependencies": {
+    "apn": "2.1.4",
     "async": "2.2.0",
+    "aws-sdk": "2.34.0",
     "bcrypt": "1.0.2",
     "body-parser": "1.17.1",
+    "compression": "1.6.2",
     "connect-multiparty": "2.0.0",
     "express": "4.15.2",
     "express-joi-validator": "2.0.0",
     "express-validation": "1.0.2",
+    "fcm-node": "1.1.0",
+    "gm": "1.23.0",
     "joi": "10.3.0",
+    "jsonwebtoken": "7.3.0",
     "moment": "2.18.1",
     "mongoose": "4.9.1",
     "raven": "1.2.0",
     "redis": "2.7.1",
     "socket.io": "1.7.3",
     "swagger-express": "1.0.5",
+    "validator": "7.0.0",
     "winston": "2.3.1",
     "winston-daily-rotate-file": "1.4.6"
   }

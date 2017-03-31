@@ -8,6 +8,7 @@ const mongoose=require('mongoose');
 const winston = require('winston');
 const swagger = require('swagger-express');
 const path = require('path');
+const compression = require('compression');
 const expressValidation = require('express-validation');
 
 
@@ -20,7 +21,7 @@ class Server{
     constructor(){
 
         this.PORT = CONFIG.SERVERCONFIG.PORT;
-
+        this.HOST = CONFIG.SERVERCONFIG.HOST;
         this.app = express();
         this.http = http.Server(this.app);
         this.socket = socketio(this.http);
@@ -32,17 +33,19 @@ class Server{
         this.app.use(bodyParser.json());
         this.app.use(bodyParser.urlencoded({extended:true}));
         this.app.use(express.static(path.join(__dirname,'public')));
-
+        this.app.set('view cache',true);
+        this.app.use(compression());
+        
         this.app.use(swagger.init(this.app,{
             apiVersion : '1.0',
             swaggerVersion : '1.0',
             basePath : CONFIG.APPCONFIG.SWAGGER_BASE_LINK + this.PORT,
-            swaggerURL : '/swagger',
+            swaggerURL : '/documentation',
             swaggerJSON : '/api-docs.json',
             swaggerUI : './public/swagger/',
-            apis : ['./swagger/admin.yml'],
+            apis : ['./swagger/admin.yml','./swagger/customers.yml'],
             info:{
-                title : 'ES6 Project structure',
+                title : 'Bongour Project',
                 name : 'Project APIs'
             }
         }));
@@ -60,8 +63,6 @@ class Server{
 
     includeRoutes(){
 
-        this.app.use('/api',ROUTES);   // all of our routes will be prefixed with /api
-
         this.app.use((req,res,next)=>{
 
             res.setHeader('Access-Control-Allow-Origin', '*');
@@ -69,19 +70,17 @@ class Server{
             res.setHeader('Access-Control-Allow-Headers', 'X-Requested-With,content-type');
             res.setHeader('Access-Control-Allow-Credentials', true);
 
-            let message = {"METHOD":req.method,"URL":req.url,"BODY":req.body};
-            message = JSON.stringify(message);
-            winston.log('info',message);
-
             next();
         });
+
+        this.app.use('/api',ROUTES);   // all of our routes will be prefixed with /api
         
         this.app.use((err,req,res,next)=>{
 
             if (err instanceof expressValidation.ValidationError) {
-
                 res.send(err);
-            } else {
+            }
+            else {
                 res.status(500)
                     .json({
                         status: err.status,

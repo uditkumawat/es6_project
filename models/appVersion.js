@@ -1,0 +1,21 @@
+'use strict';
+
+let mongoose = require('mongoose');
+let Schema = mongoose.Schema;
+
+let AppVersions = new Schema({
+    latestIOSVersion : {type: String, required:true},
+    latestAndroidVersion : {type: String, required:true},
+    criticalAndroidVersion : {type: String, required:true},
+    criticalIOSVersion : {type: String, required:true},
+    appType : {
+        type : String, unique:true, enum : [
+            'CUSTOMER',
+            'SERVICE_PROVIDER'
+        ]
+    },
+    timeStamp: {type: Date, default: Date.now}
+});
+
+
+module.exports = mongoose.model('AppVersions', AppVersions);

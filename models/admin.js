@@ -13,7 +13,7 @@ let admin = new Schema({
     countryCode : {type:String,default:null},
     password : {type: String,default:null},
     accessToken : {type : String,default:null},
-    adminType : {type : String,enum:APPCONFIG.ADMIN_TYPES}
+    adminType : {type : String,enum:[APPCONFIG.ADMIN_TYPES.SUPER_ADMIN,APPCONFIG.ADMIN_TYPES.SUB_ADMIN]}
 },{
     timestamps : true
 });

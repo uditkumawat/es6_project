@@ -7,7 +7,12 @@ if(!process.env.NODE_ENV)
     SWAGGER_BASE_LINK = "http://localhost:";
 }
 
-const ADMIN_TYPES = ['SUPER_ADMIN','SUB_ADMIN'];
+const ADMIN_TYPES = {
+    SUPER_ADMIN : 'SUPER_ADMIN',
+    SUB_ADMIN : 'SUB_ADMIN'
+};
+
+const APP_NAME = 'BONGOUR';
 
 const BOOKING_STATUS = {
     FAILED : 'FAILED',
@@ -28,6 +33,62 @@ const BOOKING_STATUS = {
     PENDING: 'PENDING',
     ARRIVED:'ARRIVED'
 };
+
+const JWT_SECRET_KEY = 'secretKeyOfBongourProject1234567890@';
+
+const GOOGLE_API_KEY = "";
+
+const DATABASE={
+
+    PROMO_TYPE:{
+        PERCENT : 'PERCENT',
+        AMOUNT : 'AMOUNT'
+    },
+    ADMIN_TYPE:{
+        SUPER_ADMIN:'SUPER_ADMIN',
+        SUB_ADMIN:'SUB_ADMIN',
+        FINANCE_ADMIN:'FINANCE_ADMIN'
+    },
+    USER_TYPE:{
+        CUSTOMER:'CUSTOMER',
+        SERVICE_PROVIDER:'SERVICE_PROVIDER',
+        ADMIN:'ADMIN',
+        COMPANY:'COMPANY'
+    },
+    GENDER:{
+        MALE:'MALE',
+        FEMALE:'FEMALE'
+    }
+};
+
+const PAYMENT={
+
+    PAYMENT_STATUS: {
+        WAITING: 'WAITING',
+        COMPLETED: 'COMPLETED',
+        DECLINED: 'DECLINED',
+        HOLD: 'HOLD',
+        REFUND: 'REFUND'
+    },
+    PAYMENT_OPTIONS: {
+        CREDIT_DEBIT_CARD: 'CREDIT_DEBIT_CARD',
+        PAYPAL: 'PAYPAL',
+        BITCOIN: 'BITCOIN',
+        GOOGLE_WALLET: 'GOOGLE_WALLET',
+        APPLE_PAY: 'APPLE_PAY',
+        EIYA_CASH: 'EIYA_CASH',
+        WALLET:'WALLET',
+        CARD:'CARD',
+        CREDITS:'CREDITS',
+        CASH:'CASH'
+    }
+};
+
+const DEVICE_TYPES = {
+    IOS: 'IOS',
+    ANDROID : 'ANDROID',
+    WEB :'WEB'
+}
 
 const STATUS_MSG = {
     ERROR: {
@@ -783,6 +844,24 @@ const STATUS_MSG = {
         }
     },
     SUCCESS: {
+        FORGOT_PASSWORD:{
+            statusCode: 200,
+            message: "Link sent to EmailId",
+            type:'FORGOT_PASSWORD',
+            data:''
+        },
+        LOGGED_IN_SUCCESSFULLY:{
+            statusCode: 200,
+            message: "Logged in",
+            type:'LOGGED_IN_SUCCESSFULLY',
+            data:''
+        },
+        CUSTOMER_ADDED:{
+            statusCode: 200,
+            message: "Customer added",
+            type:'CUSTOMER_ADDED',
+            data:''
+        },
         SUBSERVICE_UNBLOCKED:{
             statusCode: 200,
             message: "SubService unblocked",
@@ -956,7 +1035,8 @@ const STATUS_MSG = {
         LOGOUT: {
             statusCode: 200,
             message: 'Logged Out Successfully',
-            type: 'LOGOUT'
+            type: 'LOGOUT',
+            data:''
         },
         DELETED: {
             statusCode: 200,
@@ -971,9 +1051,20 @@ const STATUS_MSG = {
     }
 };
 
+const FCM_KEY = "";
+
+const EXPIRATION_TIME_OF_TOKEN = 1440 * 60 ;      //60 days
+
 module.exports = {
     ADMIN_TYPES : ADMIN_TYPES,
     SWAGGER_BASE_LINK : SWAGGER_BASE_LINK,
     STATUS_MSG : STATUS_MSG,
-    BOOKING_STATUS : BOOKING_STATUS
+    BOOKING_STATUS : BOOKING_STATUS,
+    DEVICE_TYPES:DEVICE_TYPES,
+    PAYMENT:PAYMENT,
+    DATABASE:DATABASE,
+    JWT_SECRET_KEY:JWT_SECRET_KEY,
+    APP_NAME:APP_NAME,
+    FCM_KEY : FCM_KEY,
+    EXPIRATION_TIME_OF_TOKEN:EXPIRATION_TIME_OF_TOKEN
 };

@@ -8,7 +8,8 @@ class awsConfig{
         this.secretAccessKey = "",
         this.s3URL= "",
         this.folder = {
-            "folder1":""
+            "customers":"customers",
+            "customerThumb":"customerThumb"
         },
         this.fbUrl =  "https://graph.facebook.com/"
     }

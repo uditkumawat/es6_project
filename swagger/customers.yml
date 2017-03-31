@@ -1,0 +1,177 @@
+resourcePath: /api/customer
+description: customer API's
+apis:
+
+- path: /api/customer
+  operations:
+
+    - httpMethod: POST
+      summary: Register Customer
+      notes:  Manadatory Params
+      nickname: register_customer
+      consumes:
+        - application/json
+      parameters:
+
+      - name: body
+        dataType: body
+        defaultValue: '{}'
+        paramType: body
+        required: false
+        description:
+      responses:
+        200:
+         description: An array of keys
+
+- path: /api/customer/loginEmail
+  operations:
+
+    - httpMethod: POST
+      summary: Login Customer using email and password
+      notes:  Manadatory Params
+      nickname: login_customer_using_email
+      consumes:
+        - application/json
+      parameters:
+
+      - name: body
+        dataType: body
+        defaultValue: '{
+                          "email":"user@gmail.com",
+                          "password":"qwerty",
+                          "deviceToken":"deviceToken",
+                          "deviceType":"ANDROID"
+                        }'
+        paramType: body
+        required: false
+        description:
+      responses:
+        200:
+         description: An array of keys
+
+- path: /api/customer/loginViaFB
+  operations:
+
+    - httpMethod: POST
+      summary: Login Customer using email and facebookId
+      notes:  Manadatory Params
+      nickname: login_customer_using_email_and_facebookId
+      consumes:
+        - application/json
+      parameters:
+
+      - name: body
+        dataType: body
+        defaultValue: '{
+                          "email":"user@gmail.com",
+                          "facebookId":"qwerty",
+                          "deviceToken":"deviceToken",
+                          "deviceType":"ANDROID"
+                        }'
+        paramType: body
+        required: false
+        description:
+      responses:
+        200:
+         description: An array of keys
+
+- path: /api/customer/loginViaGoogle
+  operations:
+
+    - httpMethod: POST
+      summary: Login Customer using email and googleId
+      notes:  Manadatory Params
+      nickname: login_customer_using_email_and_googleId
+      consumes:
+        - application/json
+      parameters:
+
+      - name: body
+        dataType: body
+        defaultValue: '{
+                          "email":"user@gmail.com",
+                          "googleId":"qwerty",
+                          "deviceToken":"deviceToken",
+                          "deviceType":"ANDROID"
+                        }'
+        paramType: body
+        required: false
+        description:
+      responses:
+        200:
+         description: An array of keys
+
+- path: /api/customer/forgotPassword
+  operations:
+
+    - httpMethod: POST
+      summary: Customer forgot password
+      notes:  Manadatory Params
+      nickname: customer_forgot_password_using_email
+      consumes:
+        - application/json
+      parameters:
+
+      - name: body
+        dataType: body
+        defaultValue: '{
+                          "email":"user@gmail.com",
+                          "deviceToken":"deviceToken",
+                          "deviceType":"ANDROID"
+                        }'
+        paramType: body
+        required: false
+        description:
+      responses:
+        200:
+         description: An array of keys
+
+- path: /api/customer/accessToken
+  operations:
+
+    - httpMethod: POST
+      summary: Customer accessToken login
+      notes:  Manadatory Params
+      nickname: customer_accessToken_login
+      consumes:
+        - application/json
+      parameters:
+
+      - name: body
+        dataType: body
+        defaultValue: '{
+                          "accessToken":"dsdsdsdfdsfddfs",
+                          "deviceToken":"deviceToken",
+                          "deviceType":"ANDROID"
+                        }'
+        paramType: body
+        required: false
+        description:
+      responses:
+        200:
+         description: An array of keys
+
+- path: /api/customer/logout
+  operations:
+
+    - httpMethod: PUT
+      summary: Lgout Customer
+      notes:  Manadatory Params
+      nickname: logout_customer
+      consumes:
+        - application/json
+      parameters:
+
+      - name: body
+        dataType: body
+        defaultValue: '{
+                          "accessToken":"dfggdgdfdfdfgdfg",
+                          "deviceToken":"ddssdf",
+                          "deviceType":"IOS"
+                        }'
+        paramType: body
+        required: false
+        description:
+      responses:
+        200:
+         description: An array of keys
